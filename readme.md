@@ -7,6 +7,10 @@ But... how does Doctor Strange visualizes so many futures at the same time? Let'
 
 We will demonstrante how Doctor Strange was capable of visualizing all outcomes in less than a minute and deciding which path to take.
 
+What Doctor Strange saw:
+
+![png](images/multiple_futures.gif)
+
 ## The original work
 
 Our work is based on [Gabriel Schade modelling of the final battle](https://gabrielschade.github.io/2019/04/04/avengers-joia-tempo-heuristica.html). The avengers fighting that last battle are: Ironman, Spiderman, Nebula, Peter Quill, Drax, Mantis and Doctor Strange.
