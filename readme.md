@@ -9,7 +9,7 @@ We will demonstrante how Doctor Strange was capable of visualizing all outcomes 
 
 What Doctor Strange saw:
 
-![png](images/multiple_futures.gif)
+![png](images/multiple-futures.gif)
 
 ## The original work
 
